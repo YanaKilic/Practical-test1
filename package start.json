@@ -1,0 +1,21 @@
+{
+  "name": "tayfu",
+  "version": "1.0.0",
+  "description": "\"A study project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yanita",
+    "spanish"
+  ],
+  "author": "\"Yana\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
